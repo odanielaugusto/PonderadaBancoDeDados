@@ -14,7 +14,7 @@
 
 ## Introdução ao Modelo Relacional
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Um modelo relacional é uma forma visual de se organizar os elementos de um banco de dados, sendo desenvolvido por Edgar Frank Codd, entre os anos de 1970 e 1972. Sendo amplamente utilizado em sistemas de gerenciamento de banco de dados (SGBDs), o modelo relacional é uma abordagem fundamental para armazenar e organizar dados de forma eficiente e consistente.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Um modelo relacional é uma forma visual de se organizar os elementos de um banco de dados, sendo desenvolvido por Edgar Frank Codd, entre os anos de 1970 e 1972 <a href = #historia>(A História [...], [20--])</a>. Sendo amplamente utilizado em sistemas de gerenciamento de banco de dados (SGBDs), o modelo relacional é uma abordagem fundamental para armazenar e organizar dados de forma eficiente e consistente.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seus principais elementos incluem:
 
@@ -283,7 +283,7 @@ Os dados são organizados em tabelas, que consistem em linhas (tuplas) e colunas
   
 </div>
 
-## Regras de Negócio
+## Regras de Negócio <a href = "#regraNegocio">(O que [...], 2023) </a>
 
 1.  **Validação de Dados:**
 
@@ -304,8 +304,10 @@ Os dados são organizados em tabelas, que consistem em linhas (tuplas) e colunas
 4. **Manutenção Preventiva:**
 
     - Implementar rotinas de manutenção preventiva para garantir a integridade e o desempenho do banco de dados ao longo do tempo.
-    
+
     - Realizar atualizações regulares de software para corrigir vulnerabilidades conhecidas.
+
+
 
 <h1></h1>
 
@@ -321,6 +323,14 @@ Este modelo relacional simplificado fornece uma base para o gerenciamento eficie
 - A implementação do modelo relacional deve seguir boas práticas de desenvolvimento de banco de dados.
 
 ## Referências:
-https://www.devmedia.com.br/a-historia-dos-banco-de-dados/1678
+<div id = "historia">
+A HISTÓRIA dos Banco de Dados. A História dos Banco de Dados, [s. l.], [20--]. Disponível em: <a href = "https://www.devmedia.com.br/a-historia-dos-banco-de-dados/1678">https://www.devmedia.com.br/a-historia-dos-banco-de-dados/1678</a>. Acesso em: 9 maio 2024.
+</div>
+
+<br>
+
+<div id = "regraNegocio">
+O QUE são Regras de Negócio? Qual a importância? Veja exemplos. O que são Regras de Negócio? Qual a importância? Veja exemplos., [s. l.], 1 ago. 2023. Disponível em: <a href = "https://www.sydle.com/br/blog/regras-de-negocio-5f6333be1e43744c69d995e0" >https://www.sydle.com/br/blog/regras-de-negocio-5f6333be1e43744c69d995e0</a>. Acesso em: 11 maio 2024.
+</div>
 
 
