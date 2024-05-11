@@ -10,7 +10,7 @@
 
 **Objetivo:** Descrever o modelo relacional do projeto de forma resumida e simplificada.
 
-**Documento modelo relacional do projeto**: ModeloRelacional.xml
+**Arquivo do modelo relacional do projeto em formato XML**: <a href = "https://github.com/odanielaugusto/PonderadaBancoDeDados/blob/main/poderada.xml" target = "_blank">ModeloRelacional.xml</a>
 
 ## Introdução ao Modelo Relacional
 
