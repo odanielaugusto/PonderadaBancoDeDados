@@ -285,12 +285,27 @@ Os dados são organizados em tabelas, que consistem em linhas (tuplas) e colunas
 
 ## Regras de Negócio
 
-- Todos os campos obrigatórios devem ser preenchidos.
-- As informações devem ser consistentes entre os formulários.
-- Os usuários não podem editar informações já salvas, exceto em casos específicos.
-- As informações dos usuários são confidenciais.
+1.  **Validação de Dados:**
+
+    - Todos os dados inseridos nos formulários devem ser validados quanto ao formato correto, por exemplo, emails escrito de forma válida e número de telefone no formato apropriado.
+
+    - Os dados inseridos devem estar dentro dos limites aceitáveis.
 
 
+2. **Salvamento automático**
+    
+    - Os dados devem ser salvos quando um usuário fechar o formulário sem ter preenchido todos os campos.
+
+3. **Notificação e consentimento**
+    - Obter consentimento explícito dos usuários para o processamento de seus dados, especialmente para informações sensíveis.
+
+    - Fornecer a noção clara sobre como os dados serão usados e compartilhados.
+
+4. **Manutenção Preventiva:**
+
+    - Implementar rotinas de manutenção preventiva para garantir a integridade e o desempenho do banco de dados ao longo do tempo.
+    
+    - Realizar atualizações regulares de software para corrigir vulnerabilidades conhecidas.
 
 <h1></h1>
 
