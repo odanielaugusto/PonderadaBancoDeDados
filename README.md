@@ -10,9 +10,9 @@
 
 **Objetivo:** Descrever o modelo relacional do projeto de forma resumida e simplificada.
 
-**Arquivo do modelo relacional do projeto em formato XML**: <a href = "https://github.com/odanielaugusto/PonderadaBancoDeDados/blob/main/poderada.xml" target = "_blank">ModelagemRelacional.xml</a>
+**Arquivo do modelo relacional do projeto em formato XML**: <a href = "https://github.com/odanielaugusto/PonderadaBancoDeDados/blob/main/ModelagemRelacional.xml" target = "_blank">ModelagemRelacional.xml</a>
 
-**Arquivo do modelo físico do projeto em formato SQL(PostgreSQL)**:<a href = "" target = "_blank"> ModelagemFísica.sql</a>
+**Arquivo do modelo físico do projeto em formato SQL(PostgreSQL)**:<a href = "https://github.com/odanielaugusto/PonderadaBancoDeDados/blob/main/ModelagemFisica.sql" target = "_blank"> ModelagemFísica.sql</a>
 
 ## Introdução ao Modelo Relacional
 
